@@ -56,7 +56,7 @@ They are listed as:
 For more info on specific files, use the interpreter help function.
 Enter the interpreter, import the file using command 
 
-> import filename
+> import filename </br>
 > help(filename)
 
 This will print the docstring for the file, giving more info on the file, such as arguments, and functions.
