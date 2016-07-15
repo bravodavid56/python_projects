@@ -3,7 +3,9 @@
 
 
 These are a set of projects using Python. </br></br>
-Required: Python; PyGame; a Python interpreter and IDE, such as PyCharm from JetBrains
+Required: Python; 
+-PyGame
+-Python interpreter and IDE, such as PyCharm from JetBrains
 
 
 They are listed as:
