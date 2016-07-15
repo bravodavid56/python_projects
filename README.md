@@ -4,8 +4,8 @@
 
 These are a set of projects using Python. </br></br>
 Required: Python; 
---PyGame
---Python interpreter and IDE, such as PyCharm from JetBrains
+...PyGame
+...Python interpreter and IDE, such as PyCharm from JetBrains
 
 
 They are listed as:
