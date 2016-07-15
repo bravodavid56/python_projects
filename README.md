@@ -1,6 +1,10 @@
 # python_projects
 
+
+
 These are a set of projects using Python.
+Required: Python; PyGame; a Python interpreter and IDE, such as PyCharm from JetBrains
+
 
 They are listed as:
 </br>
