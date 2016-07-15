@@ -4,9 +4,9 @@
 
 These are a set of projects using Python. </br></br>
 Required: </br>
-*Python </br> 
-*PyGame </br>
-*Python interpreter and IDE, such as PyCharm from JetBrains</br>
+-Python </br> 
+-PyGame </br>
+-Python interpreter and IDE, such as PyCharm from JetBrains</br>
 
 
 They are listed as:
